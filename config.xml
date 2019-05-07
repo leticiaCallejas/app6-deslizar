@@ -5,10 +5,10 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 id="com.phonegap.app6"
 version="1.0.0">
 
-<name>App6 Deslizar hacia la izquierda y hacia la derecha</name>
+<name>app6 deslizar hacia la izquierda y a la derecha </name>
 
 <description>
-Aplicacion que realiza el swipe o deslizamiento en el dispositivo
+Aplicacion que realiza el swipeo desplazamiento en el dispositivo
 </description>
 
 <author href="https://build.phonegap.com" email="cb16.callejas.vaquero.leticia@gmail.com">
@@ -18,7 +18,7 @@ Leticia Jatziri Callejas Vaquero
 <!--personaliza la aplicacion y plataforma-->
 <preference name="orientation" value="default"/>
 <!--preference name="orientation" value="portrait"/>
-<!--preference name="orientation" value="landscape"/>-->
+<preference name="orientation" value="landscape"/>-->
 <preference name="target-device" value="universal"/>
 <preference name="fullscreen" value="true"/>
 <preference name="android-installLocation" value="auto"/>
